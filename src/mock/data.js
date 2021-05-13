@@ -17,7 +17,7 @@ export const heroData = {
 
 // ABOUT DATA
 export const aboutData = {
-  img: 'profile.jpg',
+  img: 'alan.jpeg',
   paragraphOne:
     'React and React Native developer with more than 2 years of experience in technologies such as React, redux, hooks, context, third party APIs requests, Firebase, Express and Node.js. I have worked in different IT teams using agile methodologies like Scrum / Kanban to improve the company processes also I have met with clients to get new requirements and propose improvements for the platform. The ethics must be the value promoted to the teams and is the most important, because they are the rules that should guide us',
   // paragraphTwo: '',
